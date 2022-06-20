@@ -1,0 +1,86 @@
+.css-1hm2aoh {
+    font-size: 20px;
+    color: rgb(231 150 150);
+    margin-bottom: 7px;
+    height: auto;
+    min-height: 1.5rem;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    font-family: 'Baloo Bhai', cursive;
+}
+
+/* .css-16huue1 {
+    font-size: 20px;
+    color: rgb(236, 149, 149);
+    margin-bottom: 7px;
+    height: auto;
+    min-height: 1.5rem;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    font-family: 'Baloo Bhai', cursive;
+} */
+
+.css-12nj2tl {
+    
+    font-family: 'Baloo Bhai', cursive;
+    margin-bottom: -1rem;
+}
+.css-1v0mbdj img{
+    height: 205px;
+    width: 610px;
+}
+
+
+.css-10trblm {
+    position: relative;
+    flex: 1 1 0%;
+    margin-left: calc(3rem);
+    font-family: 'Rubik Moonrocks', cursive;
+}
+
+/* For button */
+
+.css-1sz81cb {
+    padding: 4px 10px;
+    border: 2px solid white;
+    background-color: brown;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 20px;
+}
+.css-1sz81cb.edgvbvh1:hover{
+    background-color: red;
+    color: white;
+    border-color: white;
+}
+ 
+/* for image  */
+.css-1v0mbdj img {
+    height: 207px;
+    width: 760px;
+    margin: 0px -50px;
+    padding: 0px 40px;
+}
+
+/* for music recommendation heading */
+
+.css-10trblm {
+    position: relative;
+    flex: 1 1 0%;
+    margin-left: calc(0rem);
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 55px;
+}
+
+*, :after, :before {
+    box-sizing: inherit;
+    padding: 0px 0px;
+}
